@@ -76,5 +76,5 @@ Artificial Atoms with single, double, triple and higher number of electrons suit
 
 In fact having this path breaking technology based on Artificial Atoms is highly mandatory for the future as the number of electronic elements on a chip would double every 18 months according to the Moore LaW. With conventional atoms, such advancement along with reduction in the chip dimensions is not possible as the control over flow of charges become very difficult.
 
-                                                                                                    ~Quantum Computing Club                                  
-                                                                                                             ~IIIT Dharward
+                                                                                                ~Quantum Computing Club                                  
+                                                                                                            ~IIIT Dharward
