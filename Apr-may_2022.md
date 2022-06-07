@@ -85,7 +85,7 @@ This code transfers the computational state of the main qubit to the ancillary q
 2. **Phase Flip Code :**
 This code is used to correct the phase flip error. So, before we see the phase flip code, let's understand the phase flip error. Phase flip error: This type of error changes the qubit phase by 180 degrees. As you know, this operation is similar to the Z-gate.
 
-![Circuit diagram of phase flip code](https://images.squarespace-cdn.com/content/v1/5d52f7bd9d7b3e0001819015/1597228153818-9EF2WMF4QPF4EU3KJ4G8/Quantum_error_correction_of_phase_flip_using_three_qubits.svg.png)
+![Circuit diagram of phase flip code](https://www.researchgate.net/profile/Bikash-Behera/publication/334634646/figure/fig4/AS:783806923550723@1563885541578/Shors-three-qubit-error-correcting-code-for-phase-flip.ppm)
 **fig:** Circuit diagram of phase flip code
 
 First, the main qubit (Ѱ or q0) is entangled with two other ancillary qubits(two I0> qubits) using two C-NOT(CX)gates. After that, all the three qubits are passed through Hadamard(H) gates to put them in superposition. Now, when the main qubit encounters a phase flip error, its phase is changed. Also, notice that it is only the main qubit that faces phase flip error and not the ancillary qubits. After this, another Hadamard gate is applied to all the qubits to bring them out of superposition. While the two simultaneous H-gates on the ancillary qubits give the qubits themselves (i.e., return |0>), an H-gate is followed by a Z-gate, and another H-gate acts as a Pauli(X) gate to the main qubit. The last two C-NOT gates and Toffoli gates are used to correct this qubit after the action of the X-gate on it.
