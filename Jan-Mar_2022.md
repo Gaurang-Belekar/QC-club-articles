@@ -106,5 +106,5 @@ Here, one can see the cavity through which the microwave could travel and intera
 
 As shown in the above figure, we can also realize the transmon circuit multi-qubit architecture in a classical manner.
 
-                                                                                                 ~Quantum Computing Club
-                                                                                                            IIIT Dharward
+                                                                                        ~Quantum Computing Club
+                                                                                                  IIIT Dharward
