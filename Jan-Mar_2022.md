@@ -16,7 +16,7 @@ In the case of atomic circuits, each change in data, however small, is vital to 
 
 In fact, instead of the expected repelling forces among negatively charged electrons that repel each other, an effective, attractivé force between the electrons assists in conducting the electricity. This is due to the Coulomb repulsion being weakened by the many conducting electrons as they shield each other. At the same nite the lattice vibrations arb andestalemare of the conditions, the attraction wins. The attractive interaction between the electrons makes them bond together in pairs to form Cooper pairs.
 
-![](images/cooper%20pairs.png)
+![](/images/cooper%20pairs.png)
 
 The Cooper pairs behave differently from the original electrons described by the laws of Quantum Physics. While the electrons bump into the crystal lattice, the Cooper pairs do not scatter into individual electrons as the two electrons of the Cooper pair are not spatially close to each other. Instead, they scatter as a pair on encounter with a given defect or lattice vibration of the crystal. Quantum Physics infers that minimum energy needs to be spent in breaking a Cooper pair. As long as this energy is not available, they cannot scatter. Further, Cooper pairs of electrons do not experience any energy loss while still transferring charge from point to point, thus leading to zero electrical resistance.
 
@@ -70,7 +70,7 @@ In an LC circuit, we know that the inductor(L) involves a linear relation betwee
 
 The terms are similar to classical harmonic oscillator's potential and kinetic energies. Various possible energy states of the system would be represented by the ladder steps that exist within the parabolic potential dictated by the second term, similar to the potential energy of the classical oscillator. As long as the current is a linear function of flux, the possible energy states are placed equally in the parabolic potential. This is the reason for the same level of harmonic oscillation, which results in equal spacing between he resulting nergy levels. On the ther hand, the Joephson junction, which acts as an inductor, gives the current and flux relationship in a non-linear manner, as shown below.
 
-![Joseph junction](images/josephson%20juction.png)
+![Joseph junction](/images/josephson%20juction.png)
 
 The inclusion of Josephson Junction alters the nature of potential energy from a simple parabolic to a cosine function in magnetic flux (Φ). Once the potential curve gets converted into a cosine function, all the equally spaced energy levels extended to infinity earlier get squeezed to a much smaller vertical domain, leading to the unequal spacing between the energy levels, replicating atomic levels to form an artificial atom which is shown below in the diagram.
 
