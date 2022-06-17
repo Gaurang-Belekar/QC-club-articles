@@ -106,3 +106,6 @@ Quantum error correction has added a new layer to the profile of quantum computi
 ## **Conclusion :**
 
 Quantum Computers are very sensitive devices. A small change in temperature or other external conditions can lead to errors. It is very important to resolve these errors to achieve 'Quantum Supremacy'. Methods such as repetition codes have been developed to detect and resolve these errors. Although these methods solve the errors, they don't have a 100% probability, and the probability of it succeeding is dependent on the probability of the phase flip error occurrence.
+
+                                                                                        ~Quantum Computing Club
+                                                                                                  IIIT Dharward
