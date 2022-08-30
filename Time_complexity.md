@@ -1,5 +1,5 @@
 # Time Complexity
-## **Introduction:**
+### **Introduction:**
 In computer science, time complexity is the amout of time taken for an algorithm to run. It does not consider the actul time that is taken to execute a code, but the number of times each statement executes. An algorithm’s running time varies with the variation in the input size. As a result of this, we usually consider the worst-case time complexity for an algorithm. Worst-case time complexity is the maximum time taken by an algorithm to run for a specified number of inputs. Time complexity is usually expressed as a function of the input size. Since this function is difficult to compute, we focus on its behaviour when the input size increases. In this article, we will look into how this complexity is expressed and a few complexity classes. We will also peek into one of the most difficult problems that is yet unsolved.
 <br><br>
 ## **Big O Notation:**
